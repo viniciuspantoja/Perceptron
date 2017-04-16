@@ -7,7 +7,7 @@ The goal is to present how the decision boundary is formated based on a perceptr
 
 On a second step we introduce another point into this database, that leads to a not perfect fitting of the model once again we plot the decision boundaries and confusion matrix. 
 
-The third step we add another point into the database taht leads to a big misclassification of the model. 
+The third step we add another point into the database that leads to a big misclassification of the model. 
 
 
 There are three files, one class file that is our perceptron model, another file that defines our plot functions, and the main script. the three files should be in the same directory.
